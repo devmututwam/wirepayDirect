@@ -1,0 +1,12 @@
+
+]	java:S125!"<This block of commented-out lines of code should be removed.(•êû¤ıÿÿÿÿ8ÎÔŠèÔ/
+]	java:S125*"<This block of commented-out lines of code should be removed.(·ÛÚùÿÿÿÿ8ç¿úèÔ/
+s
+java:S1128"VRemove this unused import 'com.wirepick.wirepayDirect.helper.enums.ResponseConstants'.(ä±‡Î8÷¿úèÔ/
+_
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8÷¿úèÔ/
+L
+java:S1068"*Remove this unused "logger" private field.(ãôşÿÿÿÿ8÷¿úèÔ/
+a
+java:S1068"DRemove this unused "extractPendingTransactionsHelper" private field.(ª×ºĞ8İ¾‹èÔ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡şŸË

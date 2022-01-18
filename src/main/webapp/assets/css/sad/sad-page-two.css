@@ -1,0 +1,88 @@
+/*
+ * CSS for the SAD page two svg
+ */
+
+/* New SVG CSS*/
+#Page_2 .cls-1 {
+    fill: #dfdfdf;
+}
+
+#Page_2 .cls-2, #Page_2 .cls-4, #Page_2 .cls-6, #Page_2 .cls-7, #Page_2 .cls-8 {
+    fill: none;
+    stroke-miterlimit: 10;
+}
+
+#Page_2 .cls-2 {
+    stroke: #dfdfdf;
+    stroke-linecap: square;
+}
+
+#Page_2 .cls-3 {
+    font-size: 6px;
+    fill: #666;
+    font-family: Arial-BoldMT, Arial;
+    font-weight: 700;
+}
+
+#Page_2 .cls-4, #Page_2 .cls-6, #Page_2 .cls-7, #Page_2 .cls-8 {
+    stroke: #242424;
+}
+
+#Page_2 .cls-5 {
+    font-size: 8px;
+    font-family: ArialMT, Arial;
+}
+
+#Page_2 .cls-6 {
+    stroke-width: 2px;
+}
+
+#Page_2 .cls-7 {
+    stroke-dasharray: 5 3;
+}
+
+#Page_2 .cls-8 {
+    stroke-width: 0.5px;
+}
+
+#Page_2 .tax-tables {
+    background: transparent;
+    font-size: 8px;
+    max-height: 110px;
+    overflow-y: auto;
+}
+
+.financial-wrap {
+    width: 170px;
+    height: 24px;
+}
+.exporter-address-container, .importer-address-container {
+    height: 50px;
+    width: 235px;
+}
+.agent-address-container{
+    width: 235px;
+    height: 33px;
+}
+.office-container {
+    width: 92px;
+    height: 12px;
+}
+.item-desc {
+    height: 12px;
+    width: 296px;
+}
+.item-supp {
+    height: 12px;
+    width: 44px;
+}
+.totalTaxes {
+    height: 14px;
+    width: 68px;
+}
+.s-wrap {
+    white-space: pre-wrap;
+}
+.s-no-wrap {
+    white-space: nowrap;
+}

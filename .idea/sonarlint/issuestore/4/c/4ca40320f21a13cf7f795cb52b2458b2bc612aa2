@@ -1,0 +1,20 @@
+
+B
+java:S2129:" Remove this "Double" constructor(˜âë¾ÿÿÿÿÿ8˜Š×æÔ/
+B
+java:S2129U" Remove this "Double" constructor(˜âë¾ÿÿÿÿÿ8˜Š×æÔ/
+B
+java:S2129p" Remove this "Double" constructor(˜âë¾ÿÿÿÿÿ8®Š×æÔ/
+C
+java:S2129‹" Remove this "Double" constructor(˜âë¾ÿÿÿÿÿ8®Š×æÔ/
+Z
+java:S1068"=Remove this unused "userTransactionRepository" private field.(‘¬Ä8Ü›ÖæÔ/
+[
+java:S1155/">Use isEmpty() to check whether the collection is empty or not.(±Ó¹³8®Š×æÔ/
+`
+java:S1155J">Use isEmpty() to check whether the collection is empty or not.(®­åÿÿÿÿÿ8ºŠ×æÔ/
+`
+java:S1155e">Use isEmpty() to check whether the collection is empty or not.(ûðÃ“üÿÿÿÿ8ºŠ×æÔ/
+a
+java:S1155€">Use isEmpty() to check whether the collection is empty or not.(’ÓÁ°úÿÿÿÿ8»Š×æÔ/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îß°Ô8€‹¥æÔ/

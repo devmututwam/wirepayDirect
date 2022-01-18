@@ -1,0 +1,124 @@
+/* Styles related to T1 SVG */
+
+#T1 {
+    margin: 16px 0;
+
+}
+#T1 .cls-1 {
+    fill: #dfdfdf;
+}
+
+#T1 .cls-2, #T1 .cls-3, #T1 .cls-4, #T1 .cls-5, #T1 .cls-6 {
+    fill: none;
+    stroke-miterlimit: 10;
+}
+
+#T1 .cls-2 {
+    stroke: #dfdfdf;
+    stroke-linecap: square;
+}
+
+#T1 .cls-3, #T1 .cls-4, #T1 .cls-5, #T1 .cls-6 {
+    stroke: #242424;
+}
+
+#T1 .cls-4 {
+    stroke-width: 2px;
+}
+
+#T1 .cls-5 {
+    stroke-dasharray: 5 3;
+}
+
+#T1 .cls-6 {
+    stroke-width: 0.5px;
+}
+
+#T1 .cls-7 {
+    font-size: 6px;
+    fill: #666;
+    font-family: Arial-BoldMT, Arial;
+    font-weight: 700;
+}
+
+#T1 .cls-8 {
+    font-size: 8px;
+}
+
+#T1 .cls-8, #T1 .cls-9 {
+    font-family: ArialMT, Arial;
+}
+
+#T1 .cls-9 {
+    font-size: 12px;
+}
+
+.exporter-address-container, .importer-address-container {
+    height: 50px;
+    width: 235px;
+}
+.agent-address-container{
+    width: 240px;
+    height: 24px;
+}
+.office-container {
+    width: 92px;
+    height: 12px;
+}
+.manifest-container {
+    width: 98px;
+    height: 12px;
+}
+.coo-container {
+    height: 12px;
+    width: 108px;
+}
+.cod-container {
+    height: 12px;
+    width: 122px;
+}
+.ooe-container {
+    height: 12px;
+    width: 98px;
+}
+.lod-container {
+    width: 81px;
+    height: 12px;
+}
+.ood-container {
+    width: 135px;
+    height: 12px;
+}
+.item-desc {
+    height: 12px;
+    width: 296px;
+}
+.item-supp {
+    height: 12px;
+    width: 44px;
+}
+.totalTaxes {
+    height: 14px;
+    width: 68px;
+}
+.ref-container {
+    height: 12px;
+    width: 124px;
+}
+.reason-container {
+    height: 65px;
+    width: 240px;
+}
+.s-wrap {
+    white-space: pre-wrap;
+}
+
+.s-no-wrap {
+    white-space: nowrap;
+}
+
+.guarantee-container {
+    width: 100px;
+    height: 12px;
+}
+

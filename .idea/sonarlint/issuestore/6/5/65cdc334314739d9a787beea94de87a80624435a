@@ -1,0 +1,10 @@
+
+W	java:S125"<This block of commented-out lines of code should be removed.(ÇğïB8à¡Ğ¶Ô/
+X	java:S1258"<This block of commented-out lines of code should be removed.(ç«8 Ò¶Ô/
+V	java:S125F"<This block of commented-out lines of code should be removed.(ûÙËãıÿÿÿÿ
+V	java:S125m"<This block of commented-out lines of code should be removed.(»Ãïèüÿÿÿÿ
+l
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8Ÿ Ò¶Ô/
+u
+java:S1128"XRemove this unused import 'org.springframework.jdbc.datasource.DriverManagerDataSource'.(æ´Ô½8Ÿ Ò¶Ô/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸Üğ_

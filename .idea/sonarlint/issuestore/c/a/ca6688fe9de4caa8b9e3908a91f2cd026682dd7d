@@ -1,0 +1,28 @@
+
+ajavascript:S1121"@Extract the assignment of "module.exports" from this expression.(’¬Ëøùÿÿÿÿ
+_javascript:S3358"DExtract this nested ternary operation into an independent statement.(ÕÍÏd
+[javascript:S1121"?Extract the assignment of "global.Popper" from this expression.(ùåØ
+qjavascript:S3776"URefactor this function to reduce its Cognitive Complexity from 474 to the 15 allowed.(×ÊàÚ
+mjavascript:S41381"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(şó¹¿ûÿÿÿÿ
+Gjavascript:S1117:"+'i' is already declared in the upper scope.(­¢¤ê
+ajavascript:S3358Ş"DExtract this nested ternary operation into an independent statement.(ÏØ„
+ajavascript:S3358Ş"DExtract this nested ternary operation into an independent statement.(ÏØ„
+ijavascript:S4138ô"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Â¢Ë 
+Hjavascript:S1117ô"+'i' is already declared in the upper scope.(Â¢Ë 
+Hjavascript:S1117˜"+'i' is already declared in the upper scope.(ÓÀà¡
+Rjavascript:S1117ì"0'isIE10' is already declared in the upper scope.(÷²»úÿÿÿÿ
+Rjavascript:S1117¡"0'offset' is already declared in the upper scope.(íË¬–şÿÿÿÿ
+€javascript:S1488Õ"^Immediately return this expression instead of assigning it to the temporary variable "result".(õÜ¬Ÿüÿÿÿÿ
+Pjavascript:S1117Æ"3'modifiers' is already declared in the upper scope.(—ÈĞ
+Pjavascript:S1117”"3'modifiers' is already declared in the upper scope.(Â«÷¬
+Mjavascript:S1117§"+'i' is already declared in the upper scope.(ßæÖÀüÿÿÿÿ
+Ujavascript:S1117í	"3'modifiers' is already declared in the upper scope.(©ŠâÍøÿÿÿÿ
+Mjavascript:S1117Ñ"0'offset' is already declared in the upper scope.(Ìş¶Ö
+ajavascript:S3358ñ"DExtract this nested ternary operation into an independent statement.(àúãğ
+Xjavascript:S3800„"6Refactor this function to always return the same type.(ã•”üÿÿÿÿ
+Rjavascript:S1117"0'offset' is already declared in the upper scope.(áÌ§…ûÿÿÿÿ
+fjavascript:S3358Ë"DExtract this nested ternary operation into an independent statement.(’©²îûÿÿÿÿ
+@javascript:S1186Ô"#Unexpected empty method 'onCreate'.(ãÔÛØ
+?javascript:S1186Ş"#Unexpected empty method 'onUpdate'.(È¬ü~
+;javascript:S125ò"Remove this commented out code.(Ú¤‰Æ
+Mjavascript:S1117ı"0'Popper' is already declared in the upper scope.(÷²¶ñ

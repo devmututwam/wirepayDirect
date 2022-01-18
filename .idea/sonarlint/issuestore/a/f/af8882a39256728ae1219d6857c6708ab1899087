@@ -1,0 +1,22 @@
+
+Y
+java:S1854F"<Remove this useless assignment to local variable "password".(ÀÜÜü8¼ÜäÁÛ/
+5
+java:S3751A"Make this method "public".(·ÛÚùÿÿÿÿ
+J
+java:S1481F"-Remove this unused "password" local variable.(ÀÜÜü8ÀÜäÁÛ/
+]	java:S125H"<This block of commented-out lines of code should be removed.(ººœ®ùÿÿÿÿ8ÁÜäÁÛ/
+]	java:S125M"<This block of commented-out lines of code should be removed.(‡ì Œúÿÿÿÿ8é¿ãÁÛ/
+X	java:S125]"<This block of commented-out lines of code should be removed.(¦©éğ8Ù¸àÁÛ/
+]	java:S125i"<This block of commented-out lines of code should be removed.(ç“ş¥ÿÿÿÿÿ8ê¿ãÁÛ/
+m
+java:S1128"KRemove this unused import 'com.wirepick.wirepayDirect.dto.LoginRequestDto'.(Æéƒµşÿÿÿÿ8ú½áäÛ/
+r
+java:S1128"URemove this unused import 'com.wirepick.wirepayDirect.helper.enums.ApplicationCodes'.(Ø‘¿»8ú½áäÛ/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ú½áäÛ/
+G
+java:S1068"*Remove this unused "logger" private field.(Í±Ï8ê¿ãÁÛ/
+R
+java:S1068"5Remove this unused "authenticationAPI" private field.(Øƒ½®8ë¿ãÁÛ/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷¯ás

@@ -1,0 +1,167 @@
+/*
+* CSS for SAD General segment SVG
+ */
+
+#Layer_1 .cls-1 {
+    fill: #dfdfdf;
+}
+
+#Layer_1 .cls-2, #Layer_1 .cls-3, #Layer_1 .cls-4, #Layer_1 .cls-5, #Layer_1 .cls-6 {
+    fill: none;
+    stroke-miterlimit: 10;
+}
+
+#Layer_1 .cls-2 {
+    stroke: #dfdfdf;
+    stroke-linecap: square;
+}
+
+#Layer_1 .cls-3, #Layer_1 .cls-4, #Layer_1 .cls-5, #Layer_1 .cls-6 {
+    stroke: #242424;
+}
+
+#Layer_1 .cls-4 {
+    stroke-width: 2px;
+}
+
+#Layer_1 .cls-5 {
+    stroke-dasharray: 5 3;
+}
+
+#Layer_1 .cls-6 {
+    stroke-width: 0.5px;
+}
+
+#Layer_1 .cls-12, #Layer_1 .cls-15, #Layer_1 .cls-17, #Layer_1 .cls-19, #Layer_1 .cls-20, #Layer_1 .cls-21, #Layer_1 .cls-22, #Layer_1 .cls-7, #Layer_1 .cls-8 {
+    isolation: isolate;
+}
+
+#Layer_1 .cls-12, #Layer_1 .cls-7 {
+    font-size: 6px;
+}
+
+#Layer_1 .cls-12, #Layer_1 .cls-19, #Layer_1 .cls-7 {
+    fill: #666;
+}
+
+#Layer_1 .cls-19, #Layer_1 .cls-7 {
+    font-family: Arial-BoldMT, Arial;
+    font-weight: 700;
+}
+
+#Layer_1 .cls-17, #Layer_1 .cls-9 {
+    letter-spacing: -0.07em;
+}
+
+#Layer_1 .cls-10, #Layer_1 .cls-22 {
+    letter-spacing: -0.06em;
+}
+
+#Layer_1 .cls-11 {
+    letter-spacing: -0.04em;
+}
+
+#Layer_1 .cls-12, #Layer_1 .cls-15, #Layer_1 .cls-17, #Layer_1 .cls-20, #Layer_1 .cls-21, #Layer_1 .cls-22 {
+    font-family: ArialMT, Arial;
+}
+
+#Layer_1 .cls-13 {
+    letter-spacing: -0.02em;
+}
+
+#Layer_1 .cls-14 {
+    letter-spacing: -0.13em;
+}
+
+#Layer_1 .cls-15, #Layer_1 .cls-17, #Layer_1 .cls-22 {
+    font-size: 8px;
+}
+
+#Layer_1 .cls-16 {
+    letter-spacing: -0.11em;
+}
+
+#Layer_1 .cls-18 {
+    letter-spacing: -0.09em;
+}
+
+#Layer_1 .cls-19 {
+    font-size: 5px;
+}
+
+#Layer_1 .cls-20 {
+    font-size: 7px;
+}
+
+#Layer_1 .cls-21 {
+    font-size: 8.62px;
+}
+
+.financial-wrap {
+    width: 170px;
+    height: 24px;
+}
+.exporter-address-container, .importer-address-container {
+    height: 50px;
+    width: 235px;
+}
+.agent-address-container{
+    width: 235px;
+    height: 33px;
+}
+.office-container {
+    width: 92px;
+    height: 12px;
+}
+.manifest-container {
+    width: 98px;
+    height: 12px;
+}
+.coo-container {
+    height: 12px;
+    width: 108px;
+}
+.cod-container {
+    height: 12px;
+    width: 134px;
+}
+.ooe-container {
+    height: 12px;
+    width: 98px;
+}
+.lod-container {
+    width: 81px;
+    height: 12px;
+}
+.ood-container {
+    width: 144px;
+    height: 12px;
+}
+.item-desc {
+    height: 12px;
+    width: 296px;
+}
+.item-supp {
+    height: 12px;
+    width: 44px;
+}
+.item-qty {
+    height: 12px;
+    width: 31px;
+}
+.totalTaxes {
+    height: 14px;
+    width: 68px;
+}
+.s-wrap {
+    white-space: pre-wrap;
+}
+
+.s-no-wrap {
+    white-space: nowrap;
+}
+
+.qrcode {
+    width: 58px;
+    height: 58px;
+}

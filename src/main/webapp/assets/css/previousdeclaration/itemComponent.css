@@ -1,0 +1,87 @@
+/* styles for item SVG component */
+
+#Layer_1 {
+    border-left: 2px solid #242424;
+    border-right: 2px solid #242424;
+}
+.cls-1, .cls-12, .cls-6 {
+    isolation: isolate;
+}
+
+.cls-1 {
+    font-size: 6px;
+    fill: #666;
+    font-family: Arial-BoldMT, Arial;
+    font-weight: 700;
+}
+
+.cls-12, .cls-2 {
+    letter-spacing: -0.07em;
+}
+
+.cls-3 {
+    fill: #dfdfdf;
+}
+
+.cls-10, .cls-11, .cls-4, .cls-5, .cls-7 {
+    fill: none;
+    stroke-miterlimit: 10;
+}
+
+.cls-4 {
+    stroke: #dfdfdf;
+    stroke-linecap: square;
+}
+
+.cls-10, .cls-11, .cls-5, .cls-7 {
+    stroke: #242424;
+}
+
+.cls-5 {
+    stroke-width: 2px;
+}
+
+.cls-12, .cls-6 {
+    font-size: 8px;
+    font-family: ArialMT, Arial;
+}
+
+.cls-8 {
+    letter-spacing: -0.02em;
+}
+
+.cls-9 {
+    letter-spacing: -0.06em;
+}
+
+.cls-10 {
+    stroke-dasharray: 5 3;
+}
+
+.cls-11 {
+    stroke-width: 0.5px;
+}
+
+.item-desc {
+    height: 12px;
+    width: 296px;
+}
+.item-supp {
+    height: 12px;
+    width: 44px;
+}
+.item-qty {
+    height: 12px;
+    width: 31px;
+}
+.s-wrap {
+    white-space: pre-wrap;
+}
+
+.s-no-wrap {
+    white-space: nowrap;
+}
+
+.p-r-4 {
+    padding-right: 4px;
+}

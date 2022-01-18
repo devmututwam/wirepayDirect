@@ -1,0 +1,11 @@
+
+:javascript:S125"Remove this commented out code.(ØÿË
+6javascript:S11864"Unexpected empty function.(ûŞÛâ
+Tjavascript:S14818"8Remove the declaration of the unused 'service' variable.(èõÏÑ
+Qjavascript:S18548"5Remove this useless assignment to variable "service".(èõÏÑ
+Yjavascript:S1117A"1'service' is already declared in the upper scope.(İŞò¾ıÿÿÿÿ8ÀÜûëÒ/
+Ojavascript:S1481Q".Remove unused function 'showServerMessageAdd'.(¼«Áîşÿÿÿÿ
+Fjavascript:S1481Y"*Remove unused function 'getSelectedValue'.(™ÍÌ
+Vjavascript:S1117Y":'getSelectedValue' is already declared in the upper scope.(™ÍÌ
+Yjavascript:S1481k"6Remove the declaration of the unused 'value' variable.(§ŸŞ¾8ÄŠ…íÒ/
+Vjavascript:S1854k"3Remove this useless assignment to variable "value".(§ŸŞ¾8ÅŠ…íÒ/

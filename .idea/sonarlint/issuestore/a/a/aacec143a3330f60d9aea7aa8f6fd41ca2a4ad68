@@ -1,0 +1,8 @@
+
+a
+java:S18549"FRemove this useless assignment to local variable "activateDeactivate".(‹„ÈÈøÿÿÿÿ
+R
+java:S14819"7Remove this unused "activateDeactivate" local variable.(‹„ÈÈøÿÿÿÿ
+@
+java:S1068"*Remove this unused "logger" private field.(¡ê±ç
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦£ø¡øÿÿÿÿ

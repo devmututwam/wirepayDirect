@@ -1,0 +1,8 @@
+
+Y
+java:S18543"<Remove this useless assignment to local variable "password".(ÀÜÜü8—Ø¾±Ù/
+<
+java:S3751."Make this method "public".(·ÛÚùÿÿÿÿ8§ª²±Ù/
+J
+java:S14813"-Remove this unused "password" local variable.(ÀÜÜü8¹ª²±Ù/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷¯ás

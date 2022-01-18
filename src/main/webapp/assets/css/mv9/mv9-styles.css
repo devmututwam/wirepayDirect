@@ -1,0 +1,96 @@
+/*
+ * CSS for the MV9 views
+ */
+.md-tabs .nav-item, .md-tabs .main-menu .main-menu-content .nav-item .tree-1 a, .main-menu .main-menu-content .nav-item .tree-1 .md-tabs a, .md-tabs .main-menu .main-menu-content .nav-item .tree-2 a, .main-menu .main-menu-content .nav-item .tree-2 .md-tabs a, .md-tabs .main-menu .main-menu-content .nav-item .tree-3 a, .main-menu .main-menu-content .nav-item .tree-3 .md-tabs a, .md-tabs .main-menu .main-menu-content .nav-item .tree-4 a, .main-menu .main-menu-content .nav-item .tree-4 .md-tabs a {
+    /*width: calc(100% / 5);*/
+    background-color: #0068a9;
+    color: #fff0ff !important;
+}
+
+.md-tabs .nav-item a, .md-tabs .main-menu .main-menu-content .nav-item .tree-1 a a, .main-menu .main-menu-content .nav-item .tree-1 .md-tabs a a, .md-tabs .main-menu .main-menu-content .nav-item .tree-2 a a, .main-menu .main-menu-content .nav-item .tree-2 .md-tabs a a, .md-tabs .main-menu .main-menu-content .nav-item .tree-3 a a, .main-menu .main-menu-content .nav-item .tree-3 .md-tabs a a, .md-tabs .main-menu .main-menu-content .nav-item .tree-4 a a, .main-menu .main-menu-content .nav-item .tree-4 .md-tabs a a {
+    color: #ffffff;
+}
+
+.md-tabs .nav-link.active, .md-tabs .nav-link.active:focus, .md-tabs .nav-link.active:hover {
+    color: #00477f;
+    border: none;
+    background-color: sandybrown;
+    border-radius: 0;
+}
+.nav-tabs .slide {
+    width: calc(100%/ 3);
+}
+.nav-tabs1 .nav-item {
+    width: calc(100%/ 3);
+}
+.nav-tabs2 .nav-item {
+    width: calc(100%/ 4);
+}
+.md-tabs .nav-item {
+    border-bottom: 0 !important;
+}
+
+.nav-tabs .nav-item {
+    margin-bottom: 0;
+}
+
+.box-shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.my-18 {
+    margin: 18px 0;
+}
+.a4-sim {
+    max-width: 794px;
+    height: 1112px;
+}
+.row-margin {
+    margin: 1rem 0;
+}
+textarea {
+    width: 100%;
+    border: none;
+    overflow: auto;
+    outline: none;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+
+    resize: none; /*remove the resize handle on the bottom right*/
+}
+
+.label {
+    padding: 5px 8px;
+}
+
+#printBtn {
+    position: absolute;
+    max-width: 100px;
+    top: 16px;
+    right: 16px;
+    z-index: 10;
+    border-radius: 5px;
+}
+.btn-sim {
+    cursor: pointer;
+    padding: 2px;
+    margin-left: 1px;
+}
+button.btn-close {
+    padding: 0;
+    background: 0 0;
+    border: 0;
+    -webkit-appearance: none;
+}
+.btn-close {
+    float: right;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: 1;
+
+}
+

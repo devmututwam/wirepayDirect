@@ -1,0 +1,7 @@
+
+Rjavascript:S1481"6Remove the declaration of the unused 'chart' variable.(âÄâ‡
+Ojavascript:S1854"3Remove this useless assignment to variable "chart".(âÄâ‡
+Kjavascript:S11176"/'chart' is already declared in the upper scope.(—¤ñ
+Ujavascript:S1481<"4Remove the declaration of the unused 'idx' variable.(Öø”ÿøÿÿÿÿ
+Xjavascript:S1481²"6Remove the declaration of the unused 'newcs' variable.(£ÉˆÀüÿÿÿÿ
+Ujavascript:S1854²"3Remove this useless assignment to variable "newcs".(£ÉˆÀüÿÿÿÿ

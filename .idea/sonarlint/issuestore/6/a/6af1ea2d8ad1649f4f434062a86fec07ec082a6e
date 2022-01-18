@@ -1,0 +1,10 @@
+
+@
+java:S1068"*Remove this unused "logger" private field.(ς
+T
+java:S1068"?Remove this unused "napsaTransactionsRepository" private field.(…‰Βf
+U
+java:S1068"?Remove this unused "pacraTransactionsRepository" private field.(—φη
+^
+java:S1068"CRemove this unused "taxOnlineTransactionsRepository" private field.(λ–βιϋÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(υ‹σοϊÿÿÿÿ

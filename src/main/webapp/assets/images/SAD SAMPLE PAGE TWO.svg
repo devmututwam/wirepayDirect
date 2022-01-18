@@ -1,0 +1,336 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="536" height="841.43" viewBox="0 0 536 841.43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ecfef4;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-7, .cls-8 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #ecfef4;
+        stroke-linecap: square;
+      }
+
+      .cls-3 {
+        font-size: 6px;
+      }
+
+      .cls-3, .cls-6 {
+        fill: #060;
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-4, .cls-5, .cls-7, .cls-8 {
+        stroke: #063;
+      }
+
+      .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        font-size: 8px;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 5 3;
+      }
+
+      .cls-8 {
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-1" points="43 176.43 347 176.43 347 66.43 43 66.43 43 176.43"/>
+  <polyline class="cls-2" points="43 176.43 347 176.43 347 66.43 43 66.43 43 176.43"/>
+  <polyline class="cls-1" points="411 138.43 492 138.43 492 90.43 411 90.43 411 138.43"/>
+  <polyline class="cls-2" points="411 138.43 492 138.43 492 90.43 411 90.43 411 138.43"/>
+  <text class="cls-3" transform="translate(412 98.01)">35 Gross mass (kg)</text>
+  <line class="cls-4" x1="349.5" y1="65.43" x2="349.5" y2="189.43"/>
+  <polyline class="cls-1" points="350 164.43 535 164.43 535 139.43 350 139.43 350 164.43"/>
+  <polyline class="cls-2" points="350 164.43 535 164.43 535 139.43 350 139.43 350 164.43"/>
+  <polyline class="cls-1" points="350 89.43 410 89.43 410 65.43 350 65.43 350 89.43"/>
+  <polyline class="cls-2" points="350 89.43 410 89.43 410 65.43 350 65.43 350 89.43"/>
+  <text class="cls-3" transform="translate(352 74.01)">33 Commodity code</text>
+  <text class="cls-3" transform="translate(118 710.01)">Total First Item</text>
+  <polyline class="cls-1" points="411 486.43 492 486.43 492 438.43 411 438.43 411 486.43"/>
+  <polyline class="cls-2" points="411 486.43 492 486.43 492 438.43 411 438.43 411 486.43"/>
+  <polyline class="cls-1" points="350 512.43 535 512.43 535 487.43 350 487.43 350 512.43"/>
+  <polyline class="cls-2" points="350 512.43 535 512.43 535 487.43 350 487.43 350 512.43"/>
+  <polyline class="cls-1" points="45 524.43 349 524.43 349 414.43 45 414.43 45 524.43"/>
+  <polyline class="cls-2" points="45 524.43 349 524.43 349 414.43 45 414.43 45 524.43"/>
+  <polyline class="cls-1" points="286 65.43 367 65.43 367 39.43 286 39.43 286 65.43"/>
+  <polyline class="cls-2" points="286 65.43 367 65.43 367 39.43 286 39.43 286 65.43"/>
+  <polyline class="cls-1" points="328 39.43 367 39.43 367 12.43 328 12.43 328 39.43"/>
+  <polyline class="cls-2" points="328 39.43 367 39.43 367 12.43 328 12.43 328 39.43"/>
+  <polyline class="cls-1" points="287 39.43 309 39.43 309 12.43 287 12.43 287 39.43"/>
+  <polyline class="cls-2" points="287 39.43 309 39.43 309 12.43 287 12.43 287 39.43"/>
+  <line class="cls-5" x1="287" y1="1.93" x2="367" y2="1.93"/>
+  <line class="cls-4" x1="286" y1="39.93" x2="368" y2="39.93"/>
+  <line class="cls-4" x1="327.5" y1="12.43" x2="327.5" y2="39.43"/>
+  <line class="cls-4" x1="309.5" y1="12.43" x2="309.5" y2="39.43"/>
+  <line class="cls-5" x1="286.5" y1="1.43" x2="286.5" y2="22.43"/>
+  <line class="cls-5" x1="367.5" y1="1.43" x2="367.5" y2="22.43"/>
+  <text class="cls-3" transform="translate(287 9.01)"><tspan xml:space="preserve">1             DECLARATION</tspan></text>
+  <text class="cls-3" transform="translate(10 46.01)">Customs Reference</text>
+  <text class="cls-3" transform="translate(10 33.01)">Manifest</text>
+  <text class="cls-3" transform="translate(10 60.01)">7 Reference number</text>
+  <text class="cls-6" transform="translate(0 6.86)">UNCTAD/ASYCUDAWorld</text>
+  <text class="cls-3" transform="translate(377 31)">A OFFICE OF DESTINATION</text>
+  <line class="cls-5" y1="21.93" x2="286" y2="21.93"/>
+  <line class="cls-4" x1="286.5" y1="22.43" x2="286.5" y2="65.43"/>
+  <line class="cls-4" x1="367.5" y1="20.43" x2="367.5" y2="65.43"/>
+  <line class="cls-5" x1="368" y1="21.93" x2="535" y2="21.93"/>
+  <line class="cls-4" x1="327.5" y1="52.43" x2="327.5" y2="65.43"/>
+  <line class="cls-5" x1="44.5" y1="66.43" x2="44.5" y2="841.43"/>
+  <line class="cls-4" y1="176.93" x2="350" y2="176.93"/>
+  <line class="cls-4" x1="305" y1="89.93" x2="535" y2="89.93"/>
+  <line class="cls-4" x1="304.5" y1="66.43" x2="304.5" y2="90.43"/>
+  <line class="cls-4" x1="335.5" y1="76.43" x2="335.5" y2="90.43"/>
+  <line class="cls-4" x1="349" y1="189.93" x2="535" y2="189.93"/>
+  <line class="cls-4" x1="464.5" y1="65.43" x2="464.5" y2="89.43"/>
+  <line class="cls-4" x1="498.5" y1="65.43" x2="498.5" y2="89.43"/>
+  <line class="cls-4" x1="486.5" y1="89.43" x2="486.5" y2="139.43"/>
+  <line class="cls-4" x1="410.5" y1="76.43" x2="410.5" y2="139.43"/>
+  <line class="cls-4" x1="431.5" y1="76.43" x2="431.5" y2="90.43"/>
+  <line class="cls-4" x1="349" y1="164.93" x2="535" y2="164.93"/>
+  <line class="cls-4" x1="349" y1="138.93" x2="535" y2="138.93"/>
+  <line class="cls-4" x1="390.5" y1="106.43" x2="390.5" y2="114.43"/>
+  <line class="cls-4" x1="383.5" y1="101.43" x2="383.5" y2="115.43"/>
+  <line class="cls-4" x1="356.5" y1="106.43" x2="356.5" y2="114.43"/>
+  <line class="cls-4" x1="383.5" y1="125.43" x2="383.5" y2="139.43"/>
+  <line class="cls-4" x1="431.5" y1="164.43" x2="431.5" y2="189.43"/>
+  <line class="cls-4" x1="504.5" y1="164.43" x2="504.5" y2="189.43"/>
+  <line class="cls-4" x1="458.5" y1="189.43" x2="458.5" y2="214.43"/>
+  <line class="cls-4" x1="519.5" y1="181.43" x2="519.5" y2="189.43"/>
+  <line class="cls-4" x1="349" y1="214.93" x2="535" y2="214.93"/>
+  <line class="cls-7" x1="349.5" y1="215.43" x2="349.5" y2="239.43"/>
+  <line class="cls-4" x1="349" y1="114.93" x2="535" y2="114.93"/>
+  <line class="cls-4" x1="431.5" y1="200.43" x2="431.5" y2="239.43"/>
+  <text class="cls-3" transform="translate(337 87.01)">No</text>
+  <text class="cls-3" transform="translate(49 74.01)">Marks and numbers - Containers No(s) - Number and kind</text>
+  <text class="cls-3" transform="translate(49 139.01)">Containers No(s)</text>
+  <text class="cls-3" transform="translate(261 188.01)">D.Qty</text>
+  <text class="cls-3" transform="translate(175 188.01)">D.Val</text>
+  <text class="cls-3" transform="translate(49 188.01)">Licence No</text>
+  <text class="cls-3" transform="translate(49 212.01)">A.D.</text>
+  <text class="cls-3" transform="translate(307 74.01)">32 Item</text>
+  <text class="cls-3" transform="translate(434 222.01)">46 Statistical value</text>
+  <text class="cls-3" transform="translate(424 199.01)">A.I. Code</text>
+  <text class="cls-3" transform="translate(352 173.01)">41 Supplementary units</text>
+  <text class="cls-3" transform="translate(352 148.01)">40 Summary declaration / Previous</text>
+  <text class="cls-3" transform="translate(352 123.01)">37 PROCEDURE</text>
+  <text class="cls-3" transform="translate(412 123.01)">38 Net mass (kg)</text>
+  <text class="cls-3" transform="translate(488 123.01)">39 Quota</text>
+  <text class="cls-3" transform="translate(352 98.01)">34 Cty. orig. Code</text>
+  <text class="cls-3" transform="translate(351 112.01)">a</text>
+  <text class="cls-3" transform="translate(385 112.01)">b</text>
+  <text class="cls-3" transform="translate(488 98.01)">36 Prefer.</text>
+  <text class="cls-3" transform="translate(49 87.01)">Marks &amp; no</text>
+  <text class="cls-3" transform="translate(49 101.01)">of</text>
+  <text class="cls-3" transform="translate(49 113.01)">Nbr &amp;</text>
+  <text class="cls-3" transform="translate(506 172)">43 V.M.</text>
+  <text class="cls-3" transform="translate(520 186.01)">cod</text>
+  <line class="cls-5" y1="65.93" x2="535" y2="65.93"/>
+  <polyline class="cls-1" points="350 338.43 535 338.43 535 313.43 350 313.43 350 338.43"/>
+  <polyline class="cls-2" points="350 338.43 535 338.43 535 313.43 350 313.43 350 338.43"/>
+  <polyline class="cls-1" points="45 350.43 349 350.43 349 240.43 45 240.43 45 350.43"/>
+  <polyline class="cls-2" points="45 350.43 349 350.43 349 240.43 45 240.43 45 350.43"/>
+  <polyline class="cls-1" points="350 263.43 410 263.43 410 239.43 350 239.43 350 263.43"/>
+  <polyline class="cls-2" points="350 263.43 410 263.43 410 239.43 350 239.43 350 263.43"/>
+  <polyline class="cls-1" points="411 312.43 492 312.43 492 264.43 411 264.43 411 312.43"/>
+  <polyline class="cls-2" points="411 312.43 492 312.43 492 264.43 411 264.43 411 312.43"/>
+  <line class="cls-4" y1="350.93" x2="350" y2="350.93"/>
+  <line class="cls-4" x1="349.5" y1="239.43" x2="349.5" y2="363.43"/>
+  <line class="cls-4" x1="305" y1="263.93" x2="535" y2="263.93"/>
+  <line class="cls-4" x1="304.5" y1="240.43" x2="304.5" y2="264.43"/>
+  <line class="cls-4" x1="335.5" y1="250.43" x2="335.5" y2="264.43"/>
+  <line class="cls-4" x1="349" y1="363.93" x2="535" y2="363.93"/>
+  <line class="cls-4" x1="464.5" y1="239.43" x2="464.5" y2="263.43"/>
+  <line class="cls-4" x1="498.5" y1="239.43" x2="498.5" y2="263.43"/>
+  <line class="cls-4" x1="486.5" y1="263.43" x2="486.5" y2="313.43"/>
+  <line class="cls-4" x1="410.5" y1="250.43" x2="410.5" y2="313.43"/>
+  <line class="cls-4" x1="431.5" y1="250.43" x2="431.5" y2="264.43"/>
+  <line class="cls-4" x1="349" y1="338.93" x2="535" y2="338.93"/>
+  <line class="cls-4" x1="349" y1="312.93" x2="535" y2="312.93"/>
+  <line class="cls-4" x1="390.5" y1="280.43" x2="390.5" y2="288.43"/>
+  <line class="cls-4" x1="383.5" y1="275.43" x2="383.5" y2="289.43"/>
+  <line class="cls-4" x1="356.5" y1="280.43" x2="356.5" y2="288.43"/>
+  <line class="cls-4" x1="383.5" y1="299.43" x2="383.5" y2="313.43"/>
+  <line class="cls-4" x1="431.5" y1="338.43" x2="431.5" y2="363.43"/>
+  <line class="cls-4" x1="504.5" y1="338.43" x2="504.5" y2="363.43"/>
+  <line class="cls-4" x1="458.5" y1="363.43" x2="458.5" y2="388.43"/>
+  <line class="cls-4" x1="519.5" y1="355.43" x2="519.5" y2="363.43"/>
+  <line class="cls-4" x1="349" y1="388.93" x2="535" y2="388.93"/>
+  <line class="cls-7" x1="349.5" y1="389.43" x2="349.5" y2="413.43"/>
+  <line class="cls-4" x1="349" y1="288.93" x2="535" y2="288.93"/>
+  <line class="cls-4" x1="431.5" y1="374.43" x2="431.5" y2="413.43"/>
+  <text class="cls-3" transform="translate(337 261.01)">No</text>
+  <text class="cls-3" transform="translate(49 248.01)">Marks and numbers - Containers No(s) - Number and kind</text>
+  <text class="cls-3" transform="translate(49 313.01)">Containers No(s)</text>
+  <text class="cls-3" transform="translate(260 362.01)">D.Qty</text>
+  <text class="cls-3" transform="translate(175 362.01)">D.Val</text>
+  <text class="cls-3" transform="translate(49 362.01)">Licence No</text>
+  <text class="cls-3" transform="translate(49 386.01)">A.D.</text>
+  <text class="cls-3" transform="translate(307 248.01)">32 Item</text>
+  <text class="cls-3" transform="translate(434 396.01)">46 Statistical value</text>
+  <text class="cls-3" transform="translate(424 373.01)">A.I. Code</text>
+  <text class="cls-3" transform="translate(352 347.01)">41 Supplementary units</text>
+  <text class="cls-3" transform="translate(352 322.01)">40 Summary declaration / Previous</text>
+  <text class="cls-3" transform="translate(352 297.01)">37 PROCEDURE</text>
+  <text class="cls-3" transform="translate(412 297.01)">38 Net mass (kg)</text>
+  <text class="cls-3" transform="translate(488 297.01)">39 Quota</text>
+  <text class="cls-3" transform="translate(352 272.01)">34 Cty. orig. Code</text>
+  <text class="cls-3" transform="translate(351 286.01)">a</text>
+  <text class="cls-3" transform="translate(385 286.01)">b</text>
+  <text class="cls-3" transform="translate(412 272.01)">35 Gross mass (kg)</text>
+  <text class="cls-3" transform="translate(488 272.01)">36 Prefer.</text>
+  <text class="cls-3" transform="translate(352 248.01)">33 Commodity code</text>
+  <text class="cls-3" transform="translate(49 261.01)">Marks &amp; no</text>
+  <text class="cls-3" transform="translate(49 275.01)">of packages</text>
+  <text class="cls-3" transform="translate(49 287.01)">Nbr &amp; Kind</text>
+  <text class="cls-3" transform="translate(506 346)">43 V.M.</text>
+  <text class="cls-3" transform="translate(520 360.01)">cod</text>
+  <line class="cls-5" y1="239.93" x2="535" y2="239.93"/>
+  <line class="cls-4" x1="519.5" y1="529.43" x2="519.5" y2="537.43"/>
+  <polyline class="cls-1" points="350 437.43 410 437.43 410 413.43 350 413.43 350 437.43"/>
+  <polyline class="cls-2" points="350 437.43 410 437.43 410 413.43 350 413.43 350 437.43"/>
+  <text class="cls-3" transform="translate(352 422.01)">33 Commodity code</text>
+  <line class="cls-4" x1="356.5" y1="454.43" x2="356.5" y2="462.43"/>
+  <line class="cls-4" x1="349" y1="562.93" x2="535" y2="562.93"/>
+  <text class="cls-3" transform="translate(351 460.01)">a</text>
+  <text class="cls-3" transform="translate(352 496.01)">40 Summary declaration / Previous</text>
+  <text class="cls-3" transform="translate(307 422.01)">32 Item</text>
+  <line class="cls-4" x1="504.5" y1="512.43" x2="504.5" y2="537.43"/>
+  <text class="cls-3" transform="translate(49 487.01)">Containers No(s)</text>
+  <text class="cls-3" transform="translate(175 536.01)">D.Val</text>
+  <text class="cls-3" transform="translate(424 547.01)">A.I. Code</text>
+  <line class="cls-4" x1="431.5" y1="424.43" x2="431.5" y2="438.43"/>
+  <text class="cls-3" transform="translate(506 520)">43 V.M.</text>
+  <text class="cls-3" transform="translate(488 446.01)">36 Prefer.</text>
+  <text class="cls-3" transform="translate(352 521.01)">41 Supplementary units</text>
+  <line class="cls-4" x1="383.5" y1="449.43" x2="383.5" y2="463.43"/>
+  <line class="cls-4" x1="431.5" y1="512.43" x2="431.5" y2="537.43"/>
+  <line class="cls-4" x1="390.5" y1="454.43" x2="390.5" y2="462.43"/>
+  <line class="cls-4" x1="410.5" y1="424.43" x2="410.5" y2="487.43"/>
+  <text class="cls-3" transform="translate(434 570.01)">46 Statistical value</text>
+  <line class="cls-4" x1="458.5" y1="537.43" x2="458.5" y2="562.43"/>
+  <line class="cls-4" x1="464.5" y1="413.43" x2="464.5" y2="437.43"/>
+  <line class="cls-4" x1="486.5" y1="437.43" x2="486.5" y2="487.43"/>
+  <text class="cls-3" transform="translate(261 536.01)">D.Qty</text>
+  <text class="cls-3" transform="translate(49 435.01)">Marks &amp; no</text>
+  <line class="cls-4" x1="349" y1="512.93" x2="535" y2="512.93"/>
+  <text class="cls-3" transform="translate(49 449.01)">of</text>
+  <text class="cls-3" transform="translate(337 435.01)">No</text>
+  <line class="cls-4" x1="349" y1="462.93" x2="535" y2="462.93"/>
+  <line class="cls-4" x1="305" y1="437.93" x2="535" y2="437.93"/>
+  <text class="cls-3" transform="translate(488 471.01)">39 Quota</text>
+  <line class="cls-4" x1="349" y1="486.93" x2="535" y2="486.93"/>
+  <line class="cls-4" x1="335.5" y1="424.43" x2="335.5" y2="438.43"/>
+  <line class="cls-4" x1="431.5" y1="548.43" x2="431.5" y2="587.43"/>
+  <text class="cls-3" transform="translate(520 534.01)">cod</text>
+  <text class="cls-3" transform="translate(412 471.01)">38 Net mass (kg)</text>
+  <text class="cls-3" transform="translate(49 422.01)">Marks and numbers - Containers No(s) - Number and kind</text>
+  <text class="cls-3" transform="translate(352 446.01)">34 Cty. orig. Code</text>
+  <text class="cls-3" transform="translate(352 471.01)">37 PROCEDURE</text>
+  <text class="cls-3" transform="translate(49 461.01)">Nbr &amp;</text>
+  <line class="cls-4" x1="349.5" y1="413.43" x2="349.5" y2="537.43"/>
+  <text class="cls-3" transform="translate(49 560.01)">A.D.</text>
+  <line class="cls-5" y1="413.93" x2="535" y2="413.93"/>
+  <line class="cls-4" y1="524.93" x2="350" y2="524.93"/>
+  <line class="cls-4" x1="304.5" y1="414.43" x2="304.5" y2="438.43"/>
+  <line class="cls-4" x1="498.5" y1="413.43" x2="498.5" y2="437.43"/>
+  <line class="cls-4" x1="383.5" y1="473.43" x2="383.5" y2="487.43"/>
+  <text class="cls-3" transform="translate(412 446.01)">35 Gross mass (kg)</text>
+  <line class="cls-7" x1="349.5" y1="563.43" x2="349.5" y2="587.43"/>
+  <text class="cls-3" transform="translate(49 536.01)">Licence No</text>
+  <line class="cls-4" x1="349" y1="537.93" x2="535" y2="537.93"/>
+  <text class="cls-3" transform="translate(385 460.01)">b</text>
+  <line class="cls-5" y1="587.93" x2="535" y2="587.93"/>
+  <line class="cls-8" x1="45" y1="713.93" x2="535" y2="713.93"/>
+  <line class="cls-4" x1="274.5" y1="587.43" x2="274.5" y2="713.43"/>
+  <line class="cls-4" x1="207.5" y1="587.43" x2="207.5" y2="698.43"/>
+  <line class="cls-4" x1="44" y1="698.93" x2="289" y2="698.93"/>
+  <line class="cls-4" x1="44" y1="600.93" x2="289" y2="600.93"/>
+  <line class="cls-4" x1="139.5" y1="587.43" x2="139.5" y2="698.43"/>
+  <line class="cls-4" x1="71.5" y1="587.43" x2="71.5" y2="698.43"/>
+  <text class="cls-3" transform="translate(276 596.01)">M</text>
+  <text class="cls-3" transform="translate(210 596.01)">Amount</text>
+  <text class="cls-3" transform="translate(143 596.01)">Rate</text>
+  <text class="cls-3" transform="translate(73 596.01)">Tax base</text>
+  <text class="cls-3" transform="translate(47 596.01)">Type</text>
+  <line class="cls-4" x1="274.5" y1="713.43" x2="274.5" y2="841.43"/>
+  <line class="cls-4" x1="207.5" y1="713.43" x2="207.5" y2="824.43"/>
+  <line class="cls-4" x1="44" y1="824.93" x2="289" y2="824.93"/>
+  <line class="cls-4" x1="44" y1="726.93" x2="289" y2="726.93"/>
+  <line class="cls-4" x1="139.5" y1="713.43" x2="139.5" y2="824.43"/>
+  <line class="cls-4" x1="71.5" y1="713.43" x2="71.5" y2="824.43"/>
+  <text class="cls-3" transform="translate(276 722.01)">M</text>
+  <text class="cls-3" transform="translate(210 722.01)">Amount</text>
+  <text class="cls-3" transform="translate(143 722.01)">Rate</text>
+  <text class="cls-3" transform="translate(73 722.01)">Tax base</text>
+  <text class="cls-3" transform="translate(47 722.01)">Type</text>
+  <line class="cls-4" x1="289.5" y1="587.43" x2="289.5" y2="841.43"/>
+  <line class="cls-4" x1="535.5" y1="587.43" x2="535.5" y2="714.43"/>
+  <line class="cls-4" x1="520.5" y1="587.43" x2="520.5" y2="714.43"/>
+  <line class="cls-4" x1="453.5" y1="587.43" x2="453.5" y2="698.43"/>
+  <line class="cls-4" x1="290" y1="698.93" x2="535" y2="698.93"/>
+  <line class="cls-4" x1="290" y1="600.93" x2="535" y2="600.93"/>
+  <line class="cls-4" x1="385.5" y1="587.43" x2="385.5" y2="698.43"/>
+  <line class="cls-4" x1="317.5" y1="587.43" x2="317.5" y2="698.43"/>
+  <text class="cls-3" transform="translate(522 596.01)">M</text>
+  <text class="cls-3" transform="translate(456 596.01)">Amount</text>
+  <text class="cls-3" transform="translate(389 596.01)">Rate</text>
+  <text class="cls-3" transform="translate(319 596.01)">Tax base</text>
+  <text class="cls-3" transform="translate(293 596.01)">Type</text>
+  <line class="cls-4" x1="355" y1="824.93" x2="519" y2="824.93"/>
+  <line class="cls-4" x1="355" y1="726.93" x2="519" y2="726.93"/>
+  <line class="cls-4" x1="385.5" y1="713.43" x2="385.5" y2="824.43"/>
+  <text class="cls-3" transform="translate(389 722.01)">Amount</text>
+  <text class="cls-3" transform="translate(360 722.01)">Type</text>
+  <text class="cls-3" transform="translate(357 835.01)">Total</text>
+  <text class="cls-3" transform="translate(356 710.01)">Total Second Item</text>
+  <text class="cls-3" transform="translate(112 836.01)">Total Third Item</text>
+  <text class="cls-3" transform="translate(498 148.01)">S/L</text>
+  <text class="cls-3" transform="translate(502 322.01)">S/L</text>
+  <text class="cls-3" transform="translate(497 496.01)">S/L</text>
+  <text class="cls-3" transform="translate(0 74)">31 Packages</text>
+  <text class="cls-3" transform="translate(8 83)">and.</text>
+  <text class="cls-3" transform="translate(8 92)">descriptio</text>
+  <text class="cls-3" transform="translate(8 101)">of goods</text>
+  <text class="cls-3" transform="translate(0 186)">44 Add. info</text>
+  <text class="cls-3" transform="translate(6 194)">Document</text>
+  <text class="cls-3" transform="translate(6 203)">Produced</text>
+  <text class="cls-3" transform="translate(6 212)">Certificate</text>
+  <text class="cls-3" transform="translate(6 221)">and autho-</text>
+  <text class="cls-3" transform="translate(6 230)">rization</text>
+  <text class="cls-3" transform="translate(0 248)">31 Packages</text>
+  <text class="cls-3" transform="translate(8 257)">and.</text>
+  <text class="cls-3" transform="translate(8 266)">descriptio</text>
+  <text class="cls-3" transform="translate(8 275)">of goods</text>
+  <text class="cls-3" transform="translate(0 422)">31 Packages</text>
+  <text class="cls-3" transform="translate(8 431)">and.</text>
+  <text class="cls-3" transform="translate(8 440)">descriptio</text>
+  <text class="cls-3" transform="translate(8 449)">of goods</text>
+  <text class="cls-3" transform="translate(0 360)">44 Add. info</text>
+  <text class="cls-3" transform="translate(6 368)">Document</text>
+  <text class="cls-3" transform="translate(6 377)">Produced</text>
+  <text class="cls-3" transform="translate(6 386)">Certificate</text>
+  <text class="cls-3" transform="translate(6 395)">and autho-</text>
+  <text class="cls-3" transform="translate(6 404)">rization</text>
+  <text class="cls-3" transform="translate(0 534)">44 Add. info</text>
+  <text class="cls-3" transform="translate(6 542)">Document</text>
+  <text class="cls-3" transform="translate(6 551)">Produced</text>
+  <text class="cls-3" transform="translate(6 560)">Certificate</text>
+  <text class="cls-3" transform="translate(6 569)">and autho-</text>
+  <text class="cls-3" transform="translate(6 578)">rization</text>
+  <text class="cls-3" transform="translate(0 595)">47 Calcul-</text>
+  <text class="cls-3" transform="translate(6 602)">ation of</text>
+  <text class="cls-3" transform="translate(6 611)">taxes</text>
+  <text class="cls-3" transform="translate(288 50.01)">3 Forms</text>
+</svg>

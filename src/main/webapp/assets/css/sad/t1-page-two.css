@@ -1,0 +1,46 @@
+/* Styles for the second page of the Transit G1 */
+#G1_page_2 .cls-1 {
+    fill: #dfdfdf;
+}
+
+#G1_page_2 .cls-2, #G1_page_2 .cls-4, #G1_page_2 .cls-6, #G1_page_2 .cls-7, #G1_page_2 .cls-8 {
+    fill: none;
+    stroke-miterlimit: 10;
+}
+
+#G1_page_2 .cls-2 {
+    stroke: #dfdfdf;
+    stroke-linecap: square;
+}
+
+#G1_page_2 .cls-3 {
+    font-size: 6px;
+    fill: #666;
+    font-family: Arial-BoldMT, Arial;
+    font-weight: 700;
+}
+
+#G1_page_2 .cls-4, #G1_page_2 .cls-6, #G1_page_2 .cls-7, #G1_page_2 .cls-8 {
+    stroke: #242424;
+}
+
+#G1_page_2 .cls-5 {
+    font-size: 8px;
+    font-family: ArialMT, Arial;
+}
+
+#G1_page_2 .cls-6 {
+    stroke-width: 2px;
+}
+
+#G1_page_2 .cls-7 {
+    stroke-dasharray: 5 3;
+}
+
+#G1_page_2 .cls-8 {
+    stroke-width: 0.5px;
+}
+
+#G1_page_2 .cls-9 {
+    font-size: 12px;
+}

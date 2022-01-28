@@ -97,7 +97,8 @@
 
                                     <li>
                                         <a class="signOut" href="javascript:void(0)"
-                                           data-href="<c:url value="/sign_out" />">
+                                           data-href="<c:url value="/" />">
+                                           <%--data-href="<c:url value="/sign_out" />">--%>
                                             <i class="icofont icofont-sign-out"></i> Sign Out
                                         </a>
                                     </li>

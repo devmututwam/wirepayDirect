@@ -22,7 +22,7 @@
             <a href="<c:url value="/dashboardMain" />"> <span
                     class="pcoded-micon"><i class="icon-chart"></i></span> <span
                     class="pcoded-mtext"
-                    data-i18n="nav.page_layout.vertical.static-layout">Darshboard</span>
+                    data-i18n="nav.page_layout.vertical.static-layout">Main Darshboard</span>
                 <span class="pcoded-mcaret"></span>
             </a>
         </li>
@@ -30,7 +30,7 @@
             <a href="<c:url value="/darshBoardSummary" />"> <span
                     class="pcoded-micon"><i class="icon-chart"></i></span> <span
                     class="pcoded-mtext"
-                    data-i18n="nav.page_layout.vertical.static-layout">Transactions Summary</span>
+                    data-i18n="nav.page_layout.vertical.static-layout">Transactional Darshboard</span>
                 <span class="pcoded-mcaret"></span>
             </a>
         </li>

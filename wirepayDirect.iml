@@ -16,6 +16,7 @@
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
           <factory-entry name="entityManagerFactory" />
+          <factory-entry name="noname-a.xml@0" value="29165584-8dbb-4055-89bb-04c66fcc8ef5" />
           <factory-entry name="wirepayDirect" />
         </datasource-mapping>
         <naming-strategy-map />

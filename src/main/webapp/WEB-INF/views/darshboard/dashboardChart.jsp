@@ -39,7 +39,7 @@
                     <i class="icofont icofont-home"></i>
                 </a>
             </li>
-            <li class="breadcrumb-item"><a href="#!">Dashboard</a>
+            <li class="breadcrumb-item"><a href="#!">Transactional Dashboard</a>
             </li>
         </ul>
     </div>
@@ -52,7 +52,7 @@
             <div class="col-lg-12">
                 <div class="card">
                     <div class="card-header">
-                        <h5>Username Account Summary</h5>
+                        <h5>Username Accounts Summary</h5>
                         <span><b>Here's a summary of your account Activity</b></span>
                     </div>
 

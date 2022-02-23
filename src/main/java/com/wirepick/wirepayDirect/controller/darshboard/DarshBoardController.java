@@ -42,6 +42,12 @@ public class DarshBoardController {
         this.userTransactionsHelper = userTransactionsHelper;
     }
 
+    /**
+     * Transactional darshboard
+     * @param map
+     * @param session
+     * @return
+     */
     @GetMapping(value = "/darshBoardSummary")
     public ModelAndView getAvailableServices(ModelMap map, HttpSession session) {
 
@@ -70,7 +76,12 @@ public class DarshBoardController {
     }
 
 
-
+    /**
+     * Display main darshboard
+     * @param map
+     * @param session
+     * @return
+     */
     @GetMapping(value = "/dashboardMain")
     public ModelAndView getDarshMain(ModelMap map, HttpSession session) {
 

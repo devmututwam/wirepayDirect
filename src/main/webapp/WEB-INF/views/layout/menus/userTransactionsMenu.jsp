@@ -17,7 +17,7 @@
         <span class="pcoded-mcaret"></span>
     </a>
 
-    <a href="<c:url value="/userTransactions/getTaxOnlineTransactions" />"> <span
+    <%--<a href="<c:url value="/userTransactions/getTaxOnlineTransactions" />"> <span
             class="pcoded-micon"><i class="icon-chart"></i></span> <span
             class="pcoded-mtext"
             data-i18n="nav.page_layout.vertical.static-layout">TaxOnline Transactions</span>
@@ -43,9 +43,9 @@
             class="pcoded-mtext"
             data-i18n="nav.page_layout.vertical.static-layout">Asycuda Transactions</span>
         <span class="pcoded-mcaret"></span>
-    </a>
+    </a>--%>
 
-    <%--<ul class="pcoded-submenu">
+    <ul class="pcoded-submenu">
 
         <li class=" ">
             <a href="<c:url value="/userTransactions/getUserTransactionsByUser" />"> <span
@@ -55,7 +55,7 @@
                 <span class="pcoded-mcaret"></span>
             </a>
         </li>
-        &lt;%&ndash; Services  &ndash;%&gt;
+        <%-- Services  --%>
         <li class=" pcoded-hasmenu">
             <a href="javascript:void(0)"> <span
                 class="pcoded-micon"><i class="icofont icofont-user-alt-3"></i></span> <span
@@ -103,5 +103,5 @@
 
 
 
-    </ul>--%>
+    </ul>
 </li>

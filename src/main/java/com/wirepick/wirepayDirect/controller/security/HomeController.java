@@ -13,8 +13,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpSession;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 @Controller
@@ -33,11 +34,10 @@ public class HomeController {
     /**
      * Display landing page
      * @param map
-     * @param session
      * @return
      */
     @GetMapping(value = "/")
-    public ModelAndView showLandingPage(ModelMap map, HttpSession session) {
+    public ModelAndView showLandingPage(ModelMap map) {
 
 
         return new ModelAndView("landing");
@@ -46,11 +46,10 @@ public class HomeController {
     /**
      * Render the login page
      * @param map
-     * @param session
      * @return
      */
     @GetMapping(value = "/login")
-    public ModelAndView login(ModelMap map, HttpSession session) {
+    public ModelAndView login(ModelMap map) {
 
 
         return new ModelAndView("login");

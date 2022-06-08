@@ -15,7 +15,7 @@
             <div class="sidebar_toggle"><a href="#"><i class="icon-close icons"></i></a></div>
             <div class="pcoded-inner-navbar main-menu">
                 <div class="pcoded-navigatio-lavel d-none" data-i18n="nav.category.navigation"
-                     menu-title-theme="theme5">CUSTOMS BACK OFFICE
+                     menu-title-theme="theme5">WIREPICK DIRECT
                 </div>
                 <ul class="pcoded-item pcoded-left-item">
                     <%--  MENUS REMOVED --%>
